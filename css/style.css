@@ -1,0 +1,13 @@
+/* Custom styles for the eCommerce shop */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.product-card {
+    margin-bottom: 20px;
+}
+
+.product-image {
+    height: 200px;
+    object-fit: cover;
+}
